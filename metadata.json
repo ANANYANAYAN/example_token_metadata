@@ -2,5 +2,5 @@
     "name": "Example Token",
     "symbol": "EXMPL",
     "description": "An example token for demonstration purposes.",
-    "image": "https://example.com/token-image.png",
+    "image": "https://raw.githubusercontent.com/ANANYANAYAN/example_token_metadata/main/assam_token_image.jpg",
 }
